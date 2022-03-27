@@ -1,0 +1,14 @@
+{
+  "name": "DND5E-GritAndGlory",
+  "title": "DND5E - Grit And Glory",
+  "description": "Modifies the DND5E system to accomodate Grit and Glory rules.",
+  "version": "0.1",
+  "author": "Teal",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["DND5E-GritAndGlory.js"],
+  "manifest": "https://raw.githubusercontent.com/TheTeal/DND5E-GritAndGlory/main/module.json",
+  "download": "",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9"
+}
