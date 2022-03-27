@@ -8,7 +8,7 @@
   "styles": [],
   "scripts": ["DND5E-GritAndGlory.js"],
   "manifest": "https://raw.githubusercontent.com/TheTeal/DND5E-GritAndGlory/main/module.json",
-  "download": "https://github.com/TheTeal/DND5E-GritAndGlory/archive/refs/tags/v0.2.zip",
+  "download": "https://github.com/TheTeal/DND5E-GritAndGlory/archive/refs/tags/v0.3.zip",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9"
 }
