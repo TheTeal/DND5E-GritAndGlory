@@ -2,7 +2,7 @@
   "name": "DND5E-GritAndGlory",
   "title": "DND5E - Grit And Glory",
   "description": "Modifies the DND5E system to accomodate Grit and Glory rules.",
-  "version": "0.1",
+  "version": "0.4",
   "author": "Teal",
   "systems": ["dnd5e"],
   "styles": [],
